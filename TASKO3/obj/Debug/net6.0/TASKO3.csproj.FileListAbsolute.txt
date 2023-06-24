@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\bin\Debug\net6.0\TASKO3.exe
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\bin\Debug\net6.0\TASKO3.deps.json
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\bin\Debug\net6.0\TASKO3.runtimeconfig.json
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\bin\Debug\net6.0\TASKO3.dll
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\bin\Debug\net6.0\ref\TASKO3.dll
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\bin\Debug\net6.0\TASKO3.pdb
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.GlobalUsings.g.cs
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.AssemblyInfo.cs
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.dll
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\ref\TASKO3.dll
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.pdb
+C:\Users\admin\Desktop\lessen1\Tasko\TASKO3\obj\Debug\net6.0\TASKO3.genruntimeconfig.cache

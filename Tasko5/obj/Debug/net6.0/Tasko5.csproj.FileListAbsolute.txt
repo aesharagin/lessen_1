@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\lessen1\Tasko5\bin\Debug\net6.0\Tasko5.exe
+C:\Users\admin\Desktop\lessen1\Tasko5\bin\Debug\net6.0\Tasko5.deps.json
+C:\Users\admin\Desktop\lessen1\Tasko5\bin\Debug\net6.0\Tasko5.runtimeconfig.json
+C:\Users\admin\Desktop\lessen1\Tasko5\bin\Debug\net6.0\Tasko5.dll
+C:\Users\admin\Desktop\lessen1\Tasko5\bin\Debug\net6.0\ref\Tasko5.dll
+C:\Users\admin\Desktop\lessen1\Tasko5\bin\Debug\net6.0\Tasko5.pdb
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.GlobalUsings.g.cs
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.AssemblyInfo.cs
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.dll
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\ref\Tasko5.dll
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.pdb
+C:\Users\admin\Desktop\lessen1\Tasko5\obj\Debug\net6.0\Tasko5.genruntimeconfig.cache
